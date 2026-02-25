@@ -11,8 +11,8 @@
   0xTunay@GitHub
   -----------------
   Name: Tunay
-  OS: Arch x86_64 && MacOs ARM
-  DE: Hyprland
+  OS: Debian 13 x86_64 && MacOs ARM
+  DE: KDE
   Languages: ["?"]
   Intrests: ["Linux", "Embedded",]
   
